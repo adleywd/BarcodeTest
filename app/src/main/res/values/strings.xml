@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarCodeTest</string>
+    <string name="title_activity_select_img_acitivty">SelectImgAcitivty</string>
+</resources>
